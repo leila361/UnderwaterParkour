@@ -1,0 +1,1 @@
+My game is a very simple parkour style game which takes place underwater, and the character that you are playing is a mermaid. To get to the finish, you must hop across fish, coral, seaweed, and other sea-related things. Here is the itch.io link: https://leila361.itch.io/underwater-parkour
